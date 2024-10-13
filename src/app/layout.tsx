@@ -1,6 +1,7 @@
 import "./globals.css";
-import type { Metadata } from "next";
+import type { Metadata } from "next"
 import Link from 'next/link'
+import { AuthProvider } from "./Providers"
 
 export const metadata: Metadata = {
   title: "Befous",
@@ -48,7 +49,9 @@ export default function RootLayout({
                         </div>
                         {/* Page content here */}
                         <main>
-                            {children}
+                            <AuthProvider>
+                                {children}
+                            </AuthProvider>
                         </main>
                     </div>
                     <div className="drawer-side">
