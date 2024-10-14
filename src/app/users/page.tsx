@@ -3,7 +3,8 @@ import { signOut } from "next-auth/react"
 import { useSession } from "next-auth/react"
 import AcccessDenied from "@/components/AccessDenied"
 
-export default function Dashboard() {
+
+export default function Users() {
     const { data: session, status } = useSession()
     if (status === "loading") {
         return (
@@ -17,7 +18,11 @@ export default function Dashboard() {
             <AcccessDenied />
         )
     }
-
+    if (session?.user.role !== "owner") {
+        return (
+            <AcccessDenied />
+        )
+    }
     return (
         <div
             className="hero min-h-screen"
@@ -27,16 +32,7 @@ export default function Dashboard() {
             <div className="hero-overlay bg-opacity-60"></div>
             <div className="hero-content text-neutral-content text-center">
                 <div className="max-w-md">
-                    <h1 className="mb-5 text-5xl font-bold">Hello {session?.user?.name || 'User'}</h1>
-                    <p className="mb-5">
-                        Nama = {session?.user?.name || 'User'}
-                    </p>
-                    <p className="mb-5">
-                        Username = {session?.user?.username || 'User'}
-                    </p>
-                    <p className="mb-5"> 
-                        Role = {session?.user?.role || 'User'}
-                    </p>
+                    <h1 className="mb-5 text-5xl font-bold">Hello ini halaman users</h1>
                     <button onClick={() => signOut()}>Logout</button>
                 </div>
             </div>

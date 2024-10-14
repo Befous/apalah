@@ -42,6 +42,8 @@ export default function RootLayout({
                             <ul className="menu menu-horizontal">
                             {/* Navbar menu content here */}
                                 <li><Link href="/">Home</Link></li>
+                                <li><Link href="/users">Users</Link></li>
+                                <li><Link href="/dashboard">Dashboard</Link></li>
                                 <li><Link href="/login">Login</Link></li>
                                 <li><Link href="/registrasi">Registrasi</Link></li>
                             </ul>

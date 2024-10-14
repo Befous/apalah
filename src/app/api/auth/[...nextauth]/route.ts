@@ -38,10 +38,33 @@ const authOptions: AuthOptions = {
     ],
     session: {
         strategy: 'jwt',
+        maxAge: 2 * 60 * 60,
     },
     secret: process.env.NEXTAUTH_SECRET,
     pages: {
         signIn: '/login',
+    },
+    callbacks: {
+        async session({ session, token }: { session: any; token: any }) {
+            if (token) {
+              session.user.name = token.name
+              session.user.username = token.username
+              session.user.role = token.role
+              session.user.id = token.id
+              session.user.access_token = token.access_token
+            }
+            return session
+        },
+        async jwt({ token, user }: {token: any; user: any}) {
+            if (user) {
+                token.name = user.name
+                token.username = user.username
+                token.role = user.role
+                token.id = user.id
+                token.access_token = user.access_token
+            }
+            return token
+        },
     },
 }
 
