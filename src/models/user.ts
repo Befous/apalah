@@ -2,6 +2,7 @@ import mongoose, { models, Schema } from "mongoose"
 
 const userSchema = new Schema(
     {
+        _id: Number,
         name: {
             type: String,
             require: true,
