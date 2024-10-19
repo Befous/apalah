@@ -18,7 +18,9 @@
         }
         ],
         "paths": {
-        "@/*": ["./src/*"]
+            "@/*": ["./src/*"],
+            "image/*": ["./public/static/images/*"],
+            "css/*": ["./public/static/css/*"],
         }
     },
     "include": ["next-env.d.ts", "types/next-auth.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
