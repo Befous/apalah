@@ -29,9 +29,9 @@ const FormLogin = () => {
 
         try {
             const res = await signIn("credentials", {
-              username,
-              password,
-              redirect: false,
+                username: username,
+                password: password,
+                redirect: false,
             })
       
             if (res?.error) {
