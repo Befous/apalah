@@ -1,6 +1,6 @@
 import AcccessDenied from "@/components/AccessDenied"
 import { getServerSession } from "next-auth/next"
-import { authOptions } from "@/app/api/auth/[...nextauth]/route"
+import { authOptions } from "@/lib/authOptions"
 import { fetchUsers } from '@/lib/data'
 import Pagination from '@/components/Pagination'
 import Link from "next/link"

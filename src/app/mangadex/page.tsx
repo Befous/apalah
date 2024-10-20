@@ -1,5 +1,5 @@
 import { getServerSession } from "next-auth/next"
-import { authOptions } from "@/app/api/auth/[...nextauth]/route"
+import { authOptions } from "@/lib/authOptions"
 import { fetchCover, fetchPopularNewTitle } from '@/lib/data'
 import Image from 'next/image'
 import jp from 'image/jp.svg'
