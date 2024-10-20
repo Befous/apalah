@@ -1,20 +1,29 @@
+// src/lib/fetchUsers.ts
+import { NextRequest } from 'next/server'
+
 export async function fetchUsers(page: number, limit: number) {
-    const response = await fetch(`http://127.0.0.1:3000/api/users?page=${page}&limit=${limit}`, {
+    const { GET } = await import('@/app/api/users/route')
+
+    const url = new URL(`http://localhost/api/users?page=${page}&limit=${limit}`)
+    const request: NextRequest = new NextRequest(url, {
         method: 'GET',
         headers: {
-            'Content-Type': 'application/json'
-        }
+            'Content-Type': 'application/json',
+        },
     })
+
+    const response = await GET(request)
 
     if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`)
     }
+
     const data = await response.json()
-    
+
     return {
         users: data.users,
         total: data.total,
-        limit: limit
+        limit,
     }
 }
 
@@ -52,13 +61,30 @@ export async function fetchCover(id_manga: string, id_cover: string) {
         headers: {
             'Content-Type': 'application/json'
         }
-    });
+    })
 
     if (!response.ok) {
-        throw new Error(`HTTP error! Status: ${response.status}`);
+        throw new Error(`HTTP error! Status: ${response.status}`)
     }
 
-    const data = await response.json();
+    const data = await response.json()
 
     return `https://uploads.mangadex.org/covers/${id_manga}/${data.data.attributes.fileName}.512.jpg`
+}
+
+export async function fetchCover2(id_manga: string, id_cover: string) {
+    const response = await fetch(`https://api.mangadex.org/cover/${id_cover}`, {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    })
+
+    if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`)
+    }
+
+    const data = await response.json()
+
+    return `/api/proxy/cover?id_manga=${id_manga}&fileName=${data.data.attributes.fileName}.512.jpg`
 }

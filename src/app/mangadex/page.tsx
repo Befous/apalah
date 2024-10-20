@@ -1,6 +1,6 @@
 import { getServerSession } from "next-auth/next"
 import { authOptions } from "@/lib/authOptions"
-import { fetchCover, fetchPopularNewTitle } from '@/lib/data'
+import { fetchCover, fetchCover2, fetchPopularNewTitle } from '@/lib/data'
 import Image from 'next/image'
 import jp from 'image/jp.svg'
 import kr from 'image/kr.svg'
@@ -22,7 +22,7 @@ export default async function Mangadex() {
         data.map(async (komik: { relationships: any[]; id: string }) => {
             const coverId = getCoverArtInfo(komik.relationships)
             if (coverId) {
-                const cover = await fetchCover(komik.id, coverId)
+                const cover = await fetchCover2(komik.id, coverId)
                 return {
                     ...komik,
                     cover,
