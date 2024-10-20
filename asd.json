@@ -1,0 +1,2029 @@
+{
+    "result": "ok",
+    "response": "collection",
+    "data": [
+        {
+            "id": "b0dc2f88-4e89-4e30-8d68-20116db788ff",
+            "type": "manga",
+            "attributes": {
+                "title": {
+                    "en": "Taida na Akujoku Kizoku ni Tensei shita Ore, Scenario o Bukkowashitara Kikakugai no Maryoku de Saikyou ni Natta"
+                },
+                "altTitles": [
+                    {
+                        "ja": "怠惰な悪辱貴族に転生した俺、シナリオをぶっ壊したら規格外の魔力で最凶になった"
+                    },
+                    {
+                        "ja-ro": "Taida na Akujoku Kizoku ni Tensei shita Ore, Scenario wo Bukkowashitara Kikakugai no Maryoku de Saikyou ni Natta"
+                    },
+                    {
+                        "ja-ro": "Taidana Akuhazukashime Kizoku ni Tensei Shita Ore, Scenario wo Bukkowashitara Kikaku Gai No Maryoku de Saikyou ni Natta"
+                    },
+                    {
+                        "en": "Reincarnated as the Lazy and Villainous Noble, I Broke the Scenario and Became the Most Formidable With Extraordinary Magic"
+                    },
+                    {
+                        "vi": "chuyển sinh thành quý tộc phản diện và lười biếng, tôi trở thành kẻ mạnh nhất học viện"
+                    },
+                    {
+                        "uk": "Я перевтілився у Дворянина-Лиходія, проте змінив сценарій і став найбільш грізним магом"
+                    }
+                ],
+                "description": {
+                    "en": "I've been reincarnated as the villainous noble Weiss from my favorite academy game, and the fate that awaits me is nothing but the worst possible ruin, with no salvation.\n\nI absolutely have to avoid that at all costs!\n\nThen the only way out is to gain overwhelming power that even surpasses the game's protagonist and become the strongest!",
+                    "ja": "大好きな学園ゲームに登場する悪役貴族・ヴァイスに転生してしまった、やがてこの身に待ち受けるのは、救いなしの最悪な破滅エンド。\n\nそれだけはなんとしてでも回避したい！\n\nだったらこのゲームの主人公すら遠く及ばない、圧倒的な力を身につけて最強になるしかない！\n\n最凶成り上がり異世界学園ファンタジーコミカライズ!",
+                    "vi": "Tôi đã tái sinh vào vai một quý tộc phản diện tên Weiss trong game học viện mà tôi thích nhất, và số phận chờ đợi tôi chẳng khác nào thảm họa tồi tệ nhất, không có lối thoát. Tôi nhất định phải tránh điều đó bằng mọi giá! Vậy nên cách duy nhất là có được sức mạnh áp đảo, thậm chí còn vượt xa cả nhân vật chính trong game và trở thành kẻ mạnh nhất!",
+                    "pt-br": "Eu reencarnei como *Weiss*, o nobre que é um vilãozinho secundário do meu jogo favorito, e que está destinado a  própria ruína e morte.\n\nEu definitivamente preciso evitar isso de qualquer jeito!\n\nEntão, o que me sobra é conseguir um poder tão apelão que nem mesmo o protagonista ousará me enfrentar."
+                },
+                "isLocked": false,
+                "links": {
+                    "mu": "dohh2lf",
+                    "nu": "i-have-been-reincarnated-as-a-lazy-arrogant-noble-but-when-i-destroyed-the-scenario-through-effort-i-became-the-most-powerful-with-extraordinary-magical-power",
+                    "mal": "174451",
+                    "raw": "https://comic-walker.com/detail/KC_005844_S"
+                },
+                "originalLanguage": "ja",
+                "lastVolume": "",
+                "lastChapter": "",
+                "publicationDemographic": null,
+                "status": "ongoing",
+                "year": 2024,
+                "contentRating": "safe",
+                "tags": [
+                    {
+                        "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Reincarnation"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Action"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Adventure"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Magic"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Harem"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "ace04997-f6bd-436e-b261-779182193d3d",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Isekai"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "School Life"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Fantasy"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Adaptation"
+                            },
+                            "description": {},
+                            "group": "format",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Tragedy"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    }
+                ],
+                "state": "published",
+                "chapterNumbersResetOnNewVolume": false,
+                "createdAt": "2024-09-21T17:56:13+00:00",
+                "updatedAt": "2024-10-17T10:49:17+00:00",
+                "version": 17,
+                "availableTranslatedLanguages": [
+                    "en",
+                    "vi",
+                    "pt-br",
+                    "uk",
+                    "fr",
+                    "id"
+                ],
+                "latestUploadedChapter": "71011a59-780b-4412-94fc-9d004c3fb313"
+            },
+            "relationships": [
+                {
+                    "id": "1556896e-ac71-4fe0-9a97-e40cc7f3b29e",
+                    "type": "author",
+                    "attributes": {
+                        "name": "Kikuchi Kousei",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-09-21T19:59:55+00:00",
+                        "updatedAt": "2024-09-21T19:59:55+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "c2a36799-95d4-4a51-962b-74143a4b2422",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "Odadouma",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-09-21T17:48:17+00:00",
+                        "updatedAt": "2024-09-21T17:48:17+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "167bd78e-f95d-4d22-b2c2-81b2e87dd950",
+                    "type": "cover_art",
+                    "attributes": {
+                        "description": "",
+                        "volume": null,
+                        "fileName": "b6854571-a2d4-4b24-9132-171a300dd687.png",
+                        "locale": "ja",
+                        "createdAt": "2024-09-29T15:19:05+00:00",
+                        "updatedAt": "2024-09-29T15:19:05+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "1928b0b3-27b8-4da5-a81f-9a1d544fc443",
+                    "type": "creator"
+                }
+            ]
+        },
+        {
+            "id": "ad75039d-686c-457f-b478-e56fc3b3c069",
+            "type": "manga",
+            "attributes": {
+                "title": {
+                    "en": "Kajidaikou no Arbeit wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiniirarechaimashita"
+                },
+                "altTitles": [
+                    {
+                        "ja": "家事代行のアルバイトを始めたら学園一の美少女の家族に気に入られちゃいました。"
+                    },
+                    {
+                        "ja-ro": "Kaji Daikou no Arubaito wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiniirarechaimashita"
+                    },
+                    {
+                        "en": "I Started Working a Housekeeping Job and Ended up Being Liked by the Family of the Most Beautiful Girl in School"
+                    }
+                ],
+                "description": {
+                    "en": "My Part-Time Job is at the House of the Cutest Girl in School. A Shy and Awkward Housekeeping Rom-Com with the School Idol!\n\nDuring his second year of high school, Haruto Otsuki starts a part-time job in housekeeping during the summer vacation. His first client turns out to be none other than Ayaka Tojo, the most beautiful girl in school! Despite being bewildered by this unexpected turn of events, Haruto continues doing his housekeeping duties. Over time, he becomes well-liked by Ayaka's family and begins regularly visiting her house.\n\nFrom making home-cooked meals that delight Ayaka, to going grocery shopping together like a newlywed couple, and even going on shy movie dates like young lovers, they begin to grow closer by spending these special moments outside of school. This charming and awkward housekeeping rom-com featuring the most innocent and beautiful girl in school and a secretly high-spec guy begins!",
+                    "id": "Pekerjaan Paruh Waktuku Ada di Rumah Gadis Termanis di Sekolah. Komedi Romantis Pemalu dan Canggung dengan Sang Idola Sekolah!\nSelama tahun kedua sekolah menengahnya, Haruto Otsuki memulai pekerjaan paruh waktu sebagai pembantu rumah tangga selama liburan musim panas. Klien pertamanya ternyata tidak lain adalah Ayaka Tojo, gadis tercantik di sekolah! Meskipun bingung dengan kejadian tak terduga ini, Haruto terus melakukan tugas-tugas pembantu rumah tangganya. Seiring berjalannya waktu, ia menjadi disukai oleh keluarga Ayaka dan mulai mengunjungi rumahnya secara rutin.\nDari membuat makanan rumahan yang menyenangkan Ayaka, hingga pergi berbelanja kebutuhan sehari-hari bersama seperti pasangan pengantin baru, dan bahkan pergi menonton film malu-malu seperti sepasang kekasih muda, mereka mulai semakin dekat dengan menghabiskan momen-momen spesial ini di luar sekolah. Komedi romantis yang menawan dan canggung ini menampilkan gadis paling polos dan cantik di sekolah dan seorang pria yang diam-diam berkelas tinggi!"
+                },
+                "isLocked": false,
+                "links": {
+                    "al": "182330",
+                    "ap": "kaji-daikou-no-arbeit-wo-hajimetara-gakuen-ichi-no-bishoujo-no-kazoku-ni-kiniirarechaimashita",
+                    "mu": "epjop1m",
+                    "nu": "when-i-started-working-as-a-part-time-housekeeper-i-ended-up-being-liked-by-the-family-of-the-most-beautiful-girl-in-the-school",
+                    "mal": "174592"
+                },
+                "originalLanguage": "ja",
+                "lastVolume": "",
+                "lastChapter": "",
+                "publicationDemographic": "shounen",
+                "status": "ongoing",
+                "year": 2024,
+                "contentRating": "safe",
+                "tags": [
+                    {
+                        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Romance"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Comedy"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "School Life"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Slice of Life"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Adaptation"
+                            },
+                            "description": {},
+                            "group": "format",
+                            "version": 1
+                        },
+                        "relationships": []
+                    }
+                ],
+                "state": "published",
+                "chapterNumbersResetOnNewVolume": false,
+                "createdAt": "2024-09-27T16:36:38+00:00",
+                "updatedAt": "2024-10-14T09:07:11+00:00",
+                "version": 9,
+                "availableTranslatedLanguages": [
+                    "id",
+                    "en",
+                    "vi"
+                ],
+                "latestUploadedChapter": "fd905f15-1fbb-475c-921b-783f4b4260ad"
+            },
+            "relationships": [
+                {
+                    "id": "17364ce2-96aa-4e28-90a3-ad7bdc6b20a8",
+                    "type": "author",
+                    "attributes": {
+                        "name": "Shiohon",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-09-27T16:33:13+00:00",
+                        "updatedAt": "2024-09-27T16:33:13+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "478c16d6-933a-408a-a026-3cfce6550b8e",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "Urua",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": "https://twitter.com/urua_oekaki",
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-07-17T16:19:59+00:00",
+                        "updatedAt": "2024-10-08T16:11:21+00:00",
+                        "version": 2
+                    }
+                },
+                {
+                    "id": "5b9a2386-6bf4-4c51-a6cb-32a2bbfa1880",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "Akino Ell",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-09-27T16:33:37+00:00",
+                        "updatedAt": "2024-09-27T16:33:37+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "a99b1e95-07d4-488e-b308-c5aa455a36c1",
+                    "type": "cover_art",
+                    "attributes": {
+                        "description": "",
+                        "volume": "1",
+                        "fileName": "195d88d9-a940-414f-b24b-c0da6c6c14bb.png",
+                        "locale": "ja",
+                        "createdAt": "2024-09-27T16:36:46+00:00",
+                        "updatedAt": "2024-09-27T16:36:46+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "6d0ca397-136d-4448-ae5d-895c2c504472",
+                    "type": "creator"
+                }
+            ]
+        },
+        {
+            "id": "03346265-8076-4b14-8c80-78c2f04511be",
+            "type": "manga",
+            "attributes": {
+                "title": {
+                    "en": "NoTR"
+                },
+                "altTitles": [
+                    {
+                        "ja": "ノトラレ"
+                    },
+                    {
+                        "ja-ro": "Notorare"
+                    },
+                    {
+                        "en": "NoTRR"
+                    },
+                    {
+                        "ja": "ノットネトラレ"
+                    },
+                    {
+                        "ja-ro": "NotNetorare"
+                    },
+                    {
+                        "en": "NotNTR"
+                    },
+                    {
+                        "en": "NotNTRR"
+                    }
+                ],
+                "description": {
+                    "en": "He may look shady, but no, it's not NTR!!!\n___\n**Note:** Not to be confused with [Bear and Bunny Cannot Be Friends](https://mangadex.org/title/62642f72-ed18-46f9-a8dd-4add20b752fc) (formerly *Playboy-kun & Neat-chan*), another series from this same artist."
+                },
+                "isLocked": false,
+                "links": {
+                    "raw": "https://min.togetter.com/57pi2pq"
+                },
+                "originalLanguage": "ja",
+                "lastVolume": "",
+                "lastChapter": "",
+                "publicationDemographic": null,
+                "status": "ongoing",
+                "year": 2024,
+                "contentRating": "safe",
+                "tags": [
+                    {
+                        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Romance"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Comedy"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "da2d50ca-3018-4cc0-ac7a-6b7d472a29ea",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Delinquents"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Web Comic"
+                            },
+                            "description": {},
+                            "group": "format",
+                            "version": 1
+                        },
+                        "relationships": []
+                    }
+                ],
+                "state": "published",
+                "chapterNumbersResetOnNewVolume": false,
+                "createdAt": "2024-09-21T06:09:57+00:00",
+                "updatedAt": "2024-10-19T12:58:01+00:00",
+                "version": 4,
+                "availableTranslatedLanguages": [
+                    "en",
+                    "pt-br"
+                ],
+                "latestUploadedChapter": "00204931-2e68-4896-93a1-fd13af816f33"
+            },
+            "relationships": [
+                {
+                    "id": "e5325672-91b8-4d41-92ed-40484a149eeb",
+                    "type": "author",
+                    "attributes": {
+                        "name": "🌞Akira🌞",
+                        "imageUrl": null,
+                        "biography": {
+                            "en": "**Name In Native Language:** 🌞あきら🌞\n\n[min.t](https://min.togetter.com/id/damedame_ol)"
+                        },
+                        "twitter": "https://twitter.com/damedame_ol",
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": "https://skeb.jp/@damedame_ol",
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-09-19T13:40:12+00:00",
+                        "updatedAt": "2024-10-01T13:54:38+00:00",
+                        "version": 4
+                    }
+                },
+                {
+                    "id": "e5325672-91b8-4d41-92ed-40484a149eeb",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "🌞Akira🌞",
+                        "imageUrl": null,
+                        "biography": {
+                            "en": "**Name In Native Language:** 🌞あきら🌞\n\n[min.t](https://min.togetter.com/id/damedame_ol)"
+                        },
+                        "twitter": "https://twitter.com/damedame_ol",
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": "https://skeb.jp/@damedame_ol",
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-09-19T13:40:12+00:00",
+                        "updatedAt": "2024-10-01T13:54:38+00:00",
+                        "version": 4
+                    }
+                },
+                {
+                    "id": "3cb38dd7-c502-45ce-818f-e7ee4f26b5b8",
+                    "type": "cover_art",
+                    "attributes": {
+                        "description": "",
+                        "volume": null,
+                        "fileName": "044a0b90-eb07-4561-9197-cde95828d913.jpg",
+                        "locale": "ja",
+                        "createdAt": "2024-09-21T06:10:00+00:00",
+                        "updatedAt": "2024-09-21T06:10:00+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+                    "type": "creator"
+                }
+            ]
+        },
+        {
+            "id": "aae85a31-1e90-4359-95cb-4db07b638bd3",
+            "type": "manga",
+            "attributes": {
+                "title": {
+                    "en": "Kami-sama ga Mitenai kara"
+                },
+                "altTitles": [
+                    {
+                        "ja": "神様が見てないから"
+                    },
+                    {
+                        "en": "Because God Isn't Watching"
+                    },
+                    {
+                        "en": "Because God Isn't Looking"
+                    }
+                ],
+                "description": {
+                    "en": "Sakuya, who was raised in a church, was supposed to be living a modest but warm life alongside Sister Lamia, or that's how it should have been…! Though she tries to appear seductive, she's actually pure. Though she can be slightly dimwitted, she's adorable. Even though he tries to resist, Sakuya is continuously being led around her. The forbidden love comedy between a straitlaced boy and the nun who wants to get closer to him!\n___\n**Individual Chapter Retail Pages:**\n- [BOOK☆WALKER](https://bookwalker.jp/series/477085/)\n- [Amazon](https://www.amazon.co.jp/dp/B0DBBXDCGD)\n- [ebookjapan](https://ebookjapan.yahoo.co.jp/books/836755/)",
+                    "ja": "教会で育てられた少年・咲夜はシスター・ラミアと慎ましくも温かい暮らしをしていた――。はずだった…！エッチなふりして実はピュア、ちょっぴりアホだけど可愛いシスターに振り回されっぱなし！『いや、僕らそんなことしてる場合じゃないんだって!!!』そう…彼らには恋仲になれない理由がある。ある日　世界は崩壊してしまったから―――。"
+                },
+                "isLocked": false,
+                "links": {
+                    "al": "176382",
+                    "ap": "kami-sama-ga-mitenai-kara",
+                    "bw": "series/481626",
+                    "mu": "2td8jcz",
+                    "amz": "https://www.amazon.co.jp/dp/B0DFHRYNYZ",
+                    "ebj": "https://ebookjapan.yahoo.co.jp/books/852362/",
+                    "mal": "168660",
+                    "raw": "https://www.manga-up.com/titles/1276"
+                },
+                "originalLanguage": "ja",
+                "lastVolume": "",
+                "lastChapter": "",
+                "publicationDemographic": "seinen",
+                "status": "ongoing",
+                "year": 2024,
+                "contentRating": "suggestive",
+                "tags": [
+                    {
+                        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Romance"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Comedy"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "9467335a-1b83-4497-9231-765337a00b96",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Post-Apocalyptic"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Fantasy"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Slice of Life"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    }
+                ],
+                "state": "published",
+                "chapterNumbersResetOnNewVolume": false,
+                "createdAt": "2024-09-25T06:58:49+00:00",
+                "updatedAt": "2024-10-14T20:52:08+00:00",
+                "version": 9,
+                "availableTranslatedLanguages": [
+                    "vi",
+                    "en"
+                ],
+                "latestUploadedChapter": "cac1ff2b-2da8-4f9d-83bc-d15d88371afa"
+            },
+            "relationships": [
+                {
+                    "id": "219ba62a-4e46-4030-b413-d6fa85705696",
+                    "type": "author",
+                    "attributes": {
+                        "name": "Isumi Kaoru",
+                        "imageUrl": null,
+                        "biography": {
+                            "en": "**Name In Native Language:** 伊角香"
+                        },
+                        "twitter": "https://twitter.com/mugino_isumi",
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-09-25T06:49:27+00:00",
+                        "updatedAt": "2024-09-26T04:20:24+00:00",
+                        "version": 2
+                    }
+                },
+                {
+                    "id": "634fe7d6-d135-467c-be90-426cca21a0e1",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "Mugino Inu",
+                        "imageUrl": null,
+                        "biography": {
+                            "en": "**Name In Native Language:** 麦野イヌ"
+                        },
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-02-17T15:36:18+00:00",
+                        "updatedAt": "2024-09-26T04:17:32+00:00",
+                        "version": 2
+                    }
+                },
+                {
+                    "id": "0342bc4a-87c6-40fb-bfd8-87ad801eb488",
+                    "type": "cover_art",
+                    "attributes": {
+                        "description": "",
+                        "volume": "1",
+                        "fileName": "1d72b28e-5daa-4ea7-9758-837cfe69c4ad.jpg",
+                        "locale": "ja",
+                        "createdAt": "2024-10-13T11:20:12+00:00",
+                        "updatedAt": "2024-10-13T11:20:12+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "1bd6db15-9dd3-41f1-8a09-6fde8cd98ba2",
+                    "type": "creator"
+                }
+            ]
+        },
+        {
+            "id": "13bbb17c-c78b-40a8-8649-b1716859b99c",
+            "type": "manga",
+            "attributes": {
+                "title": {
+                    "en": "Was I Hypnotized by a Classmate?"
+                },
+                "altTitles": [
+                    {
+                        "ja": "クラスの子に催眠をかけられた？"
+                    },
+                    {
+                        "ja": "クラスの子に催眠？をかけられた"
+                    },
+                    {
+                        "ja-ro": "Kurasu no Ko ni Saimin o Kakerareta?"
+                    },
+                    {
+                        "ja-ro": "Kurasu no Ko ni Saimin? o Kakerareta"
+                    },
+                    {
+                        "ja-ro": "Class no Ko ni Saimin o Kakerareta?"
+                    },
+                    {
+                        "vi": "Tôi đã bị cô bạn cùng lớp thôi miên?"
+                    },
+                    {
+                        "th": "นี่ผมโดนสะกดจิตโดยเพื่อนร่วมห้องของผมรึป่าวเนื่ย?"
+                    },
+                    {
+                        "uk": "Мене загіпнотизувала однокласниця?"
+                    },
+                    {
+                        "ru": "Я был загипнотизирован одноклассницей?"
+                    }
+                ],
+                "description": {
+                    "en": "**Links:**\n- Alternative Official Raw - [Pixiv](https://www.pixiv.net/artworks/122282926)"
+                },
+                "isLocked": false,
+                "links": {
+                    "mu": "dkplvwi",
+                    "raw": "https://twitter.com/GoHome_kun/status/1833055744411025904"
+                },
+                "originalLanguage": "ja",
+                "lastVolume": "",
+                "lastChapter": "",
+                "publicationDemographic": null,
+                "status": "ongoing",
+                "year": 2024,
+                "contentRating": "safe",
+                "tags": [
+                    {
+                        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Romance"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Comedy"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "School Life"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Web Comic"
+                            },
+                            "description": {},
+                            "group": "format",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Slice of Life"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    }
+                ],
+                "state": "published",
+                "chapterNumbersResetOnNewVolume": false,
+                "createdAt": "2024-09-23T14:22:51+00:00",
+                "updatedAt": "2024-10-18T09:22:13+00:00",
+                "version": 10,
+                "availableTranslatedLanguages": [
+                    "uk",
+                    "vi",
+                    "pt-br",
+                    "ru",
+                    "es-la",
+                    "tr",
+                    "en"
+                ],
+                "latestUploadedChapter": "2920939f-0f68-49ec-8968-6c042a60da27"
+            },
+            "relationships": [
+                {
+                    "id": "e96a03f4-4ecb-4f11-ae3c-7193c7a97d33",
+                    "type": "author",
+                    "attributes": {
+                        "name": "Ouchi Kaeru (御家かえる)",
+                        "imageUrl": null,
+                        "biography": {
+                            "en": "**Name In Native Language:** 御家かえる\n\n**Alias For 18+ Work:** Inonaka Kawazu (胃ノ中かわず)\n\n**Other Associated Names:**\nおうちかえる\nOie Kaeru \nGoHome_kun\n\n**Additional Sites:**\n- [Inonaka Kawazu X (18+)](https://twitter.com/kawazuchanR18)"
+                        },
+                        "twitter": "https://twitter.com/GoHome_kun",
+                        "pixiv": "https://www.pixiv.net/users/18815611",
+                        "melonBook": null,
+                        "fanBox": "https://kaeruchan.fanbox.cc/",
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": "https://skeb.jp/@GoHome_kun",
+                        "fantia": "https://fantia.jp/fanclubs/499333",
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2021-10-11T14:20:17+00:00",
+                        "updatedAt": "2024-10-14T16:52:13+00:00",
+                        "version": 16
+                    }
+                },
+                {
+                    "id": "e96a03f4-4ecb-4f11-ae3c-7193c7a97d33",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "Ouchi Kaeru (御家かえる)",
+                        "imageUrl": null,
+                        "biography": {
+                            "en": "**Name In Native Language:** 御家かえる\n\n**Alias For 18+ Work:** Inonaka Kawazu (胃ノ中かわず)\n\n**Other Associated Names:**\nおうちかえる\nOie Kaeru \nGoHome_kun\n\n**Additional Sites:**\n- [Inonaka Kawazu X (18+)](https://twitter.com/kawazuchanR18)"
+                        },
+                        "twitter": "https://twitter.com/GoHome_kun",
+                        "pixiv": "https://www.pixiv.net/users/18815611",
+                        "melonBook": null,
+                        "fanBox": "https://kaeruchan.fanbox.cc/",
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": "https://skeb.jp/@GoHome_kun",
+                        "fantia": "https://fantia.jp/fanclubs/499333",
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2021-10-11T14:20:17+00:00",
+                        "updatedAt": "2024-10-14T16:52:13+00:00",
+                        "version": 16
+                    }
+                },
+                {
+                    "id": "ef1a282c-7168-4033-b24c-88491ea43353",
+                    "type": "cover_art",
+                    "attributes": {
+                        "description": "",
+                        "volume": "0",
+                        "fileName": "83456e20-b2c4-44bb-bd2f-77c71322c717.jpg",
+                        "locale": "ja",
+                        "createdAt": "2024-09-23T14:23:07+00:00",
+                        "updatedAt": "2024-09-23T14:23:07+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "f97a9a67-01cc-48d0-a542-59ea341174c0",
+                    "type": "creator"
+                }
+            ]
+        },
+        {
+            "id": "fbd9b470-c83d-4238-940d-d335a016d92e",
+            "type": "manga",
+            "attributes": {
+                "title": {
+                    "en": "Kawaisou na Imouto-chan"
+                },
+                "altTitles": [
+                    {
+                        "ja": "かわいそうな妹ちゃん"
+                    },
+                    {
+                        "ja-ro": "Kawaisou na Imoutochan"
+                    },
+                    {
+                        "en": "Poor Little Sister"
+                    },
+                    {
+                        "vi": "Cô em gái rất yêu anh mình"
+                    }
+                ],
+                "description": {
+                    "en": "Poor little sister who loves her onii-chan"
+                },
+                "isLocked": false,
+                "links": {
+                    "raw": "https://x.com/kervalchan/status/1833052733399842820"
+                },
+                "originalLanguage": "ja",
+                "lastVolume": "",
+                "lastChapter": "",
+                "publicationDemographic": null,
+                "status": "ongoing",
+                "year": 2024,
+                "contentRating": "suggestive",
+                "tags": [
+                    {
+                        "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Loli"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Psychological"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Romance"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "5bd0e105-4481-44ca-b6e7-7544da56b1a3",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Incest"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Drama"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Web Comic"
+                            },
+                            "description": {},
+                            "group": "format",
+                            "version": 1
+                        },
+                        "relationships": []
+                    }
+                ],
+                "state": "published",
+                "chapterNumbersResetOnNewVolume": false,
+                "createdAt": "2024-09-26T14:23:45+00:00",
+                "updatedAt": "2024-10-08T17:08:22+00:00",
+                "version": 6,
+                "availableTranslatedLanguages": [
+                    "id",
+                    "vi",
+                    "en"
+                ],
+                "latestUploadedChapter": "739d4b88-388b-4c8f-b5ca-fd41f48dcf4c"
+            },
+            "relationships": [
+                {
+                    "id": "06edf0db-c3b6-4b1a-983d-0490ed79c2bf",
+                    "type": "author",
+                    "attributes": {
+                        "name": "Sakata Haruki",
+                        "imageUrl": null,
+                        "biography": {
+                            "en": "**Native name**: さかたはるき\n\n**Alt. names**:\nkervalchan"
+                        },
+                        "twitter": "https://twitter.com/kervalchan",
+                        "pixiv": "https://www.pixiv.net/en/users/4273345",
+                        "melonBook": null,
+                        "fanBox": "https://yuzuchan1234.fanbox.cc/",
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2022-03-28T10:33:10+00:00",
+                        "updatedAt": "2024-05-21T05:07:04+00:00",
+                        "version": 6
+                    }
+                },
+                {
+                    "id": "06edf0db-c3b6-4b1a-983d-0490ed79c2bf",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "Sakata Haruki",
+                        "imageUrl": null,
+                        "biography": {
+                            "en": "**Native name**: さかたはるき\n\n**Alt. names**:\nkervalchan"
+                        },
+                        "twitter": "https://twitter.com/kervalchan",
+                        "pixiv": "https://www.pixiv.net/en/users/4273345",
+                        "melonBook": null,
+                        "fanBox": "https://yuzuchan1234.fanbox.cc/",
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2022-03-28T10:33:10+00:00",
+                        "updatedAt": "2024-05-21T05:07:04+00:00",
+                        "version": 6
+                    }
+                },
+                {
+                    "id": "56592f33-1de7-4466-a333-7e39e899bfc0",
+                    "type": "cover_art",
+                    "attributes": {
+                        "description": "",
+                        "volume": "1",
+                        "fileName": "b0dacb85-e085-4c2d-b07a-ce6b3732dfcd.png",
+                        "locale": "ja",
+                        "createdAt": "2024-09-26T14:23:47+00:00",
+                        "updatedAt": "2024-09-26T14:23:47+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "acfd2f65-3389-4ba2-bcfb-068aed21f62b",
+                    "type": "creator"
+                }
+            ]
+        },
+        {
+            "id": "b8f9a660-ed4d-4667-9c8d-00e98c05167d",
+            "type": "manga",
+            "attributes": {
+                "title": {
+                    "en": "Furetai wa Koi no Hajimari"
+                },
+                "altTitles": [
+                    {
+                        "ja": "「触れたい」は恋の始まり"
+                    },
+                    {
+                        "ja-ro": "\"Furetai\" wa Koi no Hajimari"
+                    },
+                    {
+                        "en": "\"I Wanna Touch You\" Then Love Begins."
+                    },
+                    {
+                        "ko": "‘만지고 싶어’는 사랑의 시작"
+                    }
+                ],
+                "description": {
+                    "en": "Kaede Minato, the cool literature girl, is admired by her classmates for her elegant appearance. Momoko Hattori, a cute girl with an adorable face, quickly became an idol among her peers shortly after she entered high school.\n\nDespite having little connection, they quickly grow closer after Momoko finds Kaede in a particular situation...\n\nA story of two girls experiencing a love that is not quite love yet.",
+                    "pt-br": "Kaede Minato, a garota legal da literatura, é admirada por seus colegas de classe por sua aparência elegante. Momoko Hattori, uma garota fofa com um rosto adorável, rapidamente se tornou um ídolo entre seus colegas logo após entrar no ensino médio.\n\nApesar de terem pouca conexão, elas rapidamente se aproximam depois que Momoko encontra Kaede em uma situação particular...\n\nUma história de duas garotas vivenciando um amor que ainda não é bem amor."
+                },
+                "isLocked": false,
+                "links": {
+                    "bw": "series/488940",
+                    "kt": "furetai-wa-koi-no-hajimari",
+                    "mal": "174444",
+                    "raw": "https://storia.takeshobo.co.jp/manga/furekoi/"
+                },
+                "originalLanguage": "ja",
+                "lastVolume": "",
+                "lastChapter": "",
+                "publicationDemographic": null,
+                "status": "ongoing",
+                "year": 2024,
+                "contentRating": "safe",
+                "tags": [
+                    {
+                        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Romance"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Girls' Love"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "School Life"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Web Comic"
+                            },
+                            "description": {},
+                            "group": "format",
+                            "version": 1
+                        },
+                        "relationships": []
+                    }
+                ],
+                "state": "published",
+                "chapterNumbersResetOnNewVolume": false,
+                "createdAt": "2024-09-21T05:46:25+00:00",
+                "updatedAt": "2024-10-19T11:34:17+00:00",
+                "version": 13,
+                "availableTranslatedLanguages": [
+                    "ko",
+                    "en",
+                    "pt-br",
+                    "th"
+                ],
+                "latestUploadedChapter": "66002514-ef4c-48c7-9a3b-2662e1142a2c"
+            },
+            "relationships": [
+                {
+                    "id": "1744b00a-0d9d-47c4-9de3-4f50f3a4d423",
+                    "type": "author",
+                    "attributes": {
+                        "name": "Kumoko",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2021-04-19T21:59:45+00:00",
+                        "updatedAt": "2021-04-19T21:59:45+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "1744b00a-0d9d-47c4-9de3-4f50f3a4d423",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "Kumoko",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2021-04-19T21:59:45+00:00",
+                        "updatedAt": "2021-04-19T21:59:45+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "54175a56-adbf-49d1-b4b7-6e1d10a597ca",
+                    "type": "cover_art",
+                    "attributes": {
+                        "description": "",
+                        "volume": "1",
+                        "fileName": "c1f8dad8-183a-4a7a-9bfe-774bc80e29a6.png",
+                        "locale": "ja",
+                        "createdAt": "2024-09-21T06:00:00+00:00",
+                        "updatedAt": "2024-09-21T06:00:00+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "9c5602c5-bcdc-4b48-b2c5-79339fd8ebad",
+                    "type": "creator"
+                }
+            ]
+        },
+        {
+            "id": "b11736e2-f72f-431f-a00f-820a2e58f27e",
+            "type": "manga",
+            "attributes": {
+                "title": {
+                    "en": "The Three Skills I Received, When Combined, Were The Most Powerful"
+                },
+                "altTitles": [
+                    {
+                        "ja": "貰った三つの外れスキル、合わせたら最強でした"
+                    },
+                    {
+                        "ja-ro": "Moratta Mittsu no Hazure Skill, Awasetara Saikyō Deshita"
+                    },
+                    {
+                        "en": "Moratta Mittsu no Hazure Skill, Awasetara Saikyou Deshita"
+                    },
+                    {
+                        "id": "Tiga keterampilan tidak biasa yang saya terima adalah yang terkuat jika digabungkan."
+                    }
+                ],
+                "description": {
+                    "en": "Mutou Kushina's life, filled with brutality, came to an abrupt end. In his new incarnation, the goddess granted him three abilities: [Super Speedy Regeneration], [Agelessness], and [Grit: Indomitable Spirit].\n\nHowever, those skills were outlier skills that were not offensive skills!\n\nThe place where he was reborn with such skills is the Forest of Endless Calamity, where a large number of Danger Level S monsters roam, one of which is capable of destroying the world.\n\nHaving no offensive skills, Kushina's  should have been killed by the monsters right away, but...?\n\nWith all three skills, he can instantly regenerate no matter what kind of attack he receives! And every time he is attacked, he gets stronger and stronger...",
+                    "ja": "壮絶な前世の末、命を落とした少年・無倒屈止無（むとう くしな）。\n\n転生する際に女神に貰ったのは【超速再生】【不老】【根性：不撓不屈】という３つのスキル。しかし、それらのスキルは攻撃系のスキルではない外れスキルだった！\n\nそんなスキルを持って転生した先は、“危険度S”の1匹で世界を滅ぼせる程のモンスターが大量に闊歩している【果ての災厄の森】。\n\n攻撃系のスキルを持たない屈止無はすぐにモンスターに殺されるはずだったが……？\n\n３つのスキルを組み合わせたらどんな攻撃を受けても瞬時に再生！しかも攻撃される度に強くなっていき―"
+                },
+                "isLocked": false,
+                "links": {
+                    "mal": "174411",
+                    "raw": "https://firecross.jp/ebook/series/556"
+                },
+                "originalLanguage": "ja",
+                "lastVolume": "",
+                "lastChapter": "",
+                "publicationDemographic": null,
+                "status": "ongoing",
+                "year": 2024,
+                "contentRating": "suggestive",
+                "tags": [
+                    {
+                        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Action"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Adventure"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "ace04997-f6bd-436e-b261-779182193d3d",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Isekai"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Drama"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Fantasy"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Adaptation"
+                            },
+                            "description": {},
+                            "group": "format",
+                            "version": 1
+                        },
+                        "relationships": []
+                    }
+                ],
+                "state": "published",
+                "chapterNumbersResetOnNewVolume": false,
+                "createdAt": "2024-09-29T19:24:30+00:00",
+                "updatedAt": "2024-10-07T09:46:44+00:00",
+                "version": 9,
+                "availableTranslatedLanguages": [
+                    "en",
+                    "id"
+                ],
+                "latestUploadedChapter": "79dd4f3d-ced5-417d-9e89-8e66e3628684"
+            },
+            "relationships": [
+                {
+                    "id": "c4e5c881-4083-4c08-a8ef-96b4f1524d3e",
+                    "type": "author",
+                    "attributes": {
+                        "name": "Yuki no Kitsune (雪ノ狐)",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-09-29T20:34:46+00:00",
+                        "updatedAt": "2024-09-29T20:34:46+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "5d8aab82-91c5-47fa-a52c-98abba53bff1",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "Nanaya Yahiro",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-09-29T20:35:27+00:00",
+                        "updatedAt": "2024-09-29T20:35:27+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "926aa2b1-eb8c-4df5-a15e-0f5ab0ec837f",
+                    "type": "cover_art",
+                    "attributes": {
+                        "description": "",
+                        "volume": "0",
+                        "fileName": "2f564a7a-1df6-4a55-aa65-be4af5104e4f.png",
+                        "locale": "ja",
+                        "createdAt": "2024-09-29T20:20:14+00:00",
+                        "updatedAt": "2024-09-29T20:20:14+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "57619078-d7c4-4412-9031-07919997def8",
+                    "type": "creator"
+                }
+            ]
+        },
+        {
+            "id": "cde5424f-02e5-4c90-a433-b92d831d9856",
+            "type": "manga",
+            "attributes": {
+                "title": {
+                    "en": "Yearning For A Night Full of You"
+                },
+                "altTitles": [
+                    {
+                        "ja-ro": "Kimi Meku Yoru ni Kogarete"
+                    },
+                    {
+                        "ja": "君めく夜に焦がれて"
+                    }
+                ],
+                "description": {
+                    "en": "Saint Ruri Girl's Academy. At this academy, there are two opposing factions: the \"Ruri Class,\" consisting of refined, well-bred ladies, and the \"Ai Class,\" made up of delinquents with poor behavior. Nanase Mitsuki, among the students of the Ai Class, is the most feared by the Ruri Class due to her intimidating appearance, though Mitsuki harbors a complex about her looks. One night, she meets Hosho Yuka, a young lady wandering alone at night... A sweet and fleeting love story between two people who are only allowed to meet at night."
+                },
+                "isLocked": false,
+                "links": {
+                    "al": "178728",
+                    "ap": "kimimeku-yoru-ni-kogarete",
+                    "bw": "dede0bf110-7666-4943-91ec-7871b98310dd",
+                    "kt": "kimi-meku-yoru-ni-kogarete",
+                    "mu": "btygn05",
+                    "amz": "https://www.amazon.co.jp/●合本版●君めく夜に焦がれて（1）（描き下ろしおまけ付き）-COMICアンブル-鴒-ebook/dp/B0DJ8H5Q3N?__mk_ja_JP=カタカナ&crid=7FV6C87501WH&dib=eyJ2IjoiMSJ9.5ckDr-PWxCs58HcNlTup6WeUMGZMyWIFrle6bWzj0aesUXbMXQP2Vqa3aI2h9sbUXSA8SKBzU2irP1tz2sLltKT501GMrBANq3fC-Q_j7rGHhlnX9IOqtFnEOxk_v62tYirk6J0fxwQ5pBEwvS5fuIBskJCoPyTUja5vuBaAF1ZrSyZRJyDUtGAZZORyAfMY.A-1RfSScF_1YEuPGlNopjZBVuI7ESYHc5tSmHMtigN8&dib_tag=se&keywords=君めく夜に焦がれて&qid=1728292011&s=digital-text&sprefix=君めく夜に焦がれて,digital-text,297&sr=1-1&linkCode=sl1&tag=yurinavi000b-22&linkId=61a84ebc8b523802e7888a4b618a2f82&language=ja_JP&ref_=as_li_ss_tl"
+                },
+                "originalLanguage": "ja",
+                "lastVolume": "",
+                "lastChapter": "",
+                "publicationDemographic": null,
+                "status": "ongoing",
+                "year": 2024,
+                "contentRating": "safe",
+                "tags": [
+                    {
+                        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Romance"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Girls' Love"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Drama"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "School Life"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Web Comic"
+                            },
+                            "description": {},
+                            "group": "format",
+                            "version": 1
+                        },
+                        "relationships": []
+                    }
+                ],
+                "state": "published",
+                "chapterNumbersResetOnNewVolume": false,
+                "createdAt": "2024-10-09T13:48:53+00:00",
+                "updatedAt": "2024-10-15T15:17:07+00:00",
+                "version": 23,
+                "availableTranslatedLanguages": [
+                    "en",
+                    "es-la"
+                ],
+                "latestUploadedChapter": "35c1d185-1168-4c1c-ab00-cc6931a161ef"
+            },
+            "relationships": [
+                {
+                    "id": "d2c0e378-d76e-4016-88af-832d0610451c",
+                    "type": "author",
+                    "attributes": {
+                        "name": "Rey",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-05-13T11:44:21+00:00",
+                        "updatedAt": "2024-05-13T11:44:21+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "d2c0e378-d76e-4016-88af-832d0610451c",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "Rey",
+                        "imageUrl": null,
+                        "biography": {},
+                        "twitter": null,
+                        "pixiv": null,
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2024-05-13T11:44:21+00:00",
+                        "updatedAt": "2024-05-13T11:44:21+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "f65a1001-45db-463a-8734-2bfdee3d1647",
+                    "type": "cover_art",
+                    "attributes": {
+                        "description": "",
+                        "volume": "1",
+                        "fileName": "cc4f55e4-abfd-48b6-a822-b8d266f4b1eb.jpg",
+                        "locale": "ja",
+                        "createdAt": "2024-10-09T13:51:26+00:00",
+                        "updatedAt": "2024-10-09T13:51:43+00:00",
+                        "version": 2
+                    }
+                },
+                {
+                    "id": "9c5602c5-bcdc-4b48-b2c5-79339fd8ebad",
+                    "type": "creator"
+                }
+            ]
+        },
+        {
+            "id": "6941f16b-b56e-404a-b4ba-2fc7e009d38f",
+            "type": "manga",
+            "attributes": {
+                "title": {
+                    "en": "Issho Watashi no Joshu de ite!"
+                },
+                "altTitles": [
+                    {
+                        "ja": "一生わたしの助手でいて！"
+                    },
+                    {
+                        "en": "Be my assistant for life!"
+                    }
+                ],
+                "description": {
+                    "en": "\"The relationship between a detective and their assistant is not unlike romance!\"\n\nDue to his natural tendency to assist others (a \"helper type\" personality that makes him constantly want to lend a hand), Mitomo Tasuku had always lived in the shadows. To break out of this, he made it his life's mission to \"become number one.\" However, at the high school he transfers to, he encounters three detective girls, who happen to be his rivals from elementary school with whom he formed a detective club together. Thus begins Tasuku's fierce battle for the top detective spot! However... these girls seem to harbor passionate feelings of a different kind...!?"
+                },
+                "isLocked": false,
+                "links": {
+                    "al": "182766",
+                    "mu": "ey6f0mn",
+                    "mal": "174905",
+                    "raw": "https://pocket.shonenmagazine.com/episode/2550912964668844419"
+                },
+                "originalLanguage": "ja",
+                "lastVolume": "",
+                "lastChapter": "",
+                "publicationDemographic": "shounen",
+                "status": "ongoing",
+                "year": 2024,
+                "contentRating": "safe",
+                "tags": [
+                    {
+                        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Romance"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Comedy"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Harem"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "School Life"
+                            },
+                            "description": {},
+                            "group": "theme",
+                            "version": 1
+                        },
+                        "relationships": []
+                    },
+                    {
+                        "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+                        "type": "tag",
+                        "attributes": {
+                            "name": {
+                                "en": "Slice of Life"
+                            },
+                            "description": {},
+                            "group": "genre",
+                            "version": 1
+                        },
+                        "relationships": []
+                    }
+                ],
+                "state": "published",
+                "chapterNumbersResetOnNewVolume": false,
+                "createdAt": "2024-10-05T21:42:11+00:00",
+                "updatedAt": "2024-10-19T20:17:06+00:00",
+                "version": 8,
+                "availableTranslatedLanguages": [
+                    "en",
+                    "vi"
+                ],
+                "latestUploadedChapter": "03f15b62-c6d3-412b-a817-78d50a1c524a"
+            },
+            "relationships": [
+                {
+                    "id": "84b9e12e-360a-401e-a4b1-6749264afd5c",
+                    "type": "author",
+                    "attributes": {
+                        "name": "Hitotose Hirune",
+                        "imageUrl": null,
+                        "biography": {
+                            "en": "**Name In Native Language**: ひととせひるね"
+                        },
+                        "twitter": "https://twitter.com/httsHirune",
+                        "pixiv": "https://www.pixiv.net/en/users/2369705",
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2022-05-24T22:20:51+00:00",
+                        "updatedAt": "2024-03-14T11:50:07+00:00",
+                        "version": 3
+                    }
+                },
+                {
+                    "id": "84b9e12e-360a-401e-a4b1-6749264afd5c",
+                    "type": "artist",
+                    "attributes": {
+                        "name": "Hitotose Hirune",
+                        "imageUrl": null,
+                        "biography": {
+                            "en": "**Name In Native Language**: ひととせひるね"
+                        },
+                        "twitter": "https://twitter.com/httsHirune",
+                        "pixiv": "https://www.pixiv.net/en/users/2369705",
+                        "melonBook": null,
+                        "fanBox": null,
+                        "booth": null,
+                        "namicomi": null,
+                        "nicoVideo": null,
+                        "skeb": null,
+                        "fantia": null,
+                        "tumblr": null,
+                        "youtube": null,
+                        "weibo": null,
+                        "naver": null,
+                        "website": null,
+                        "createdAt": "2022-05-24T22:20:51+00:00",
+                        "updatedAt": "2024-03-14T11:50:07+00:00",
+                        "version": 3
+                    }
+                },
+                {
+                    "id": "f5d56116-eab7-4827-b5df-c8f1a5d9252e",
+                    "type": "cover_art",
+                    "attributes": {
+                        "description": "",
+                        "volume": "1",
+                        "fileName": "f1d13f6f-2cf2-4b88-83c2-da361113ef9a.jpg",
+                        "locale": "ja",
+                        "createdAt": "2024-10-05T21:42:13+00:00",
+                        "updatedAt": "2024-10-05T21:42:13+00:00",
+                        "version": 1
+                    }
+                },
+                {
+                    "id": "74ac52ef-e8c5-4fad-836e-ecf07094c3aa",
+                    "type": "creator"
+                }
+            ]
+        }
+    ],
+    "limit": 10,
+    "offset": 0,
+    "total": 401
+}
