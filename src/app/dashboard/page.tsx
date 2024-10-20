@@ -8,10 +8,10 @@ export default function Dashboard() {
         <div className="w-full">
             <div className="container w-1/2 p-4 mx-auto text-center border">
                 <div className="overflow-x-auto">
-                    <h1>Dashboard</h1>
-                    <p>Nama = {session?.user?.name || 'Tidak login'}</p>
-                    <p>Username = {session?.user?.username || 'Tidak login'}</p>
-                    <p>Role = {session?.user?.role || 'Tidak login'}</p>
+                    <h1>Ceritanya dashboard</h1>
+                    <p>Nama = {session?.user?.name || ''}</p>
+                    <p>Username = {session?.user?.username || ''}</p>
+                    <p>Role = {session?.user?.role || ''}</p>
                 </div>
             </div>
         </div>
