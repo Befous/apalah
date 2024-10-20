@@ -1,5 +1,8 @@
+// pages/api/proxy/cover/[id_manga]/[fileName].ts
+
 import { NextResponse } from 'next/server'
 
+// Your existing GET function
 export async function GET(_request: Request, { params }: { params: { id_manga: string; fileName: string } }) {
     const { id_manga, fileName } = params
 
@@ -26,4 +29,19 @@ export async function GET(_request: Request, { params }: { params: { id_manga: s
         console.error('Error fetching the image:', error)
         return NextResponse.json({ error: 'Failed to fetch image' }, { status: 500 })
     }
+}
+
+// Generate Static Params function
+export async function generateStaticParams() {
+    // Example: Fetching a list of manga IDs and their cover file names from an API
+    const response = await fetch('https://your-api-endpoint.com/manga')
+    const mangaList = await response.json()
+
+    // Generate params for each dynamic route
+    const params = mangaList.map((manga: { id: string; coverFileName: string }) => ({
+        id_manga: manga.id,
+        fileName: manga.coverFileName,
+    }))
+
+    return params
 }
