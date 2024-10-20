@@ -55,6 +55,23 @@ export async function fetchPopularNewTitle() {
     return data
 }
 
+// export async function fetchCover(id_manga: string, id_cover: string) {
+//     const response = await fetch(`https://api.mangadex.org/cover/${id_cover}`, {
+//         method: 'GET',
+//         headers: {
+//             'Content-Type': 'application/json'
+//         }
+//     })
+
+//     if (!response.ok) {
+//         throw new Error(`HTTP error! Status: ${response.status}`)
+//     }
+
+//     const data = await response.json()
+
+//     return `https://uploads.mangadex.org/covers/${id_manga}/${data.data.attributes.fileName}.512.jpg`
+// }
+
 export async function fetchCover(id_manga: string, id_cover: string) {
     const response = await fetch(`https://api.mangadex.org/cover/${id_cover}`, {
         method: 'GET',
@@ -69,22 +86,5 @@ export async function fetchCover(id_manga: string, id_cover: string) {
 
     const data = await response.json()
 
-    return `https://uploads.mangadex.org/covers/${id_manga}/${data.data.attributes.fileName}.512.jpg`
-}
-
-export async function fetchCover2(id_manga: string, id_cover: string) {
-    const response = await fetch(`https://api.mangadex.org/cover/${id_cover}`, {
-        method: 'GET',
-        headers: {
-            'Content-Type': 'application/json'
-        }
-    })
-
-    if (!response.ok) {
-        throw new Error(`HTTP error! Status: ${response.status}`)
-    }
-
-    const data = await response.json()
-
-    return `/api/proxy/cover?id_manga=${id_manga}&fileName=${data.data.attributes.fileName}.512.jpg`
+    return `/api/proxy/cover/${id_manga}/${data.data.attributes.fileName}.512.jpg`
 }
