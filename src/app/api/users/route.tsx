@@ -23,6 +23,10 @@ export async function GET(request: NextRequest) {
         return NextResponse.json({ users, total: totalUsers, limit: limit }, { status: 200 })
     } catch (error) {
         console.error("Error fetching users:", error)
-        return NextResponse.json({ message: "Gagal fetch data" }, { status: 500 })
+        if (error instanceof Error) {
+            return NextResponse.json({ message: "Gagal fetch data", error: error.message }, { status: 500 })
+        } else {
+            return NextResponse.json({ message: "Gagal fetch data", error: "Unknown error occurred" }, { status: 500 })
+        }
     }
 }
