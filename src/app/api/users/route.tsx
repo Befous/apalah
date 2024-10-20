@@ -2,10 +2,12 @@ import { connectMongoDB } from "@/lib/mongodb"
 import User from "@/models/user"
 import { NextRequest, NextResponse } from "next/server"
 
+export const dynamic = 'force-dynamic'
+
 export async function GET(request: NextRequest) {
     try {
         await connectMongoDB()
-        
+
         const url = new URL(request.url)
         const page = parseInt(url.searchParams.get('page') || '1', 10)
         const limit = parseInt(url.searchParams.get('limit') || '10', 10)
