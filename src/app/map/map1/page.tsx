@@ -1,7 +1,7 @@
-import MapComponent from '@/components/Map3D'
+import Map2D from '@/components/Map2D'
 
 export default function Home() {
   return (
-    <MapComponent />
+    <Map2D />
   )
 }
