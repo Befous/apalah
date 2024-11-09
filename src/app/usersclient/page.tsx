@@ -1,40 +1,35 @@
-// Users.tsx (Client Component)
 "use client"
 
-import AccessDenied from "@/components/AccessDenied"
 import Loading from "@/components/Loading"
-import { useSession } from "next-auth/react"
 import { useEffect, useState } from "react"
-import { fetchUsers } from '@/lib/data'
 import Pagination from '@/components/Pagination'
 
-export default function Users({ searchParams }: { searchParams?: { page?: string } }) {
-    const { data: session, status } = useSession()
+export default function Users({ searchParams }: { searchParams?: { page?: number } }) {
     const currentPage = Number(searchParams?.page) || 1
     const [usersData, setUsersData] = useState<{ users: any[]; total: number; limit: number } | null>(null)
 
     useEffect(() => {
-        const fetchData = async () => {
-            const { users, total, limit } = await fetchUsers(currentPage, 20)
-            setUsersData({ users, total, limit })
+        const fetchData = async (page: number, limit: number) => {
+            const response = await fetch(`api/users?page=${page}&limit=${limit}`, {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`)
+            }
+            const data = await response.json()
+            
+            setUsersData({
+                users: data.users,
+                total: data.total,
+                limit: limit
+            })
         }
 
-        if (status === "authenticated") {
-            fetchData()
-        }
-    }, [currentPage, status])
-
-    if (status === "loading") {
-        return <Loading />
-    }
-
-    if (status === "unauthenticated") {
-        return <AccessDenied />
-    }
-
-    if (!session || session.user.role !== "owner") {
-        return <AccessDenied />
-    }
+        fetchData(currentPage, 20)
+    }, [currentPage])
 
     // Check if usersData is still null
     if (!usersData) {
