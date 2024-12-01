@@ -1,42 +1,12 @@
-"use client"
+"use server"
 
-import Loading from "@/components/Loading"
-import { useEffect, useState } from "react"
+import { fetchUsers } from '@/lib/data'
 import Pagination from '@/components/Pagination'
 
-export default function Users({ searchParams }: { searchParams?: { page?: number } }) {
+export default async function Users({ searchParams }: { searchParams?: { page?: string } }) {
     const currentPage = Number(searchParams?.page) || 1
-    const [usersData, setUsersData] = useState<{ users: any[]; total: number; limit: number } | null>(null)
+    const { users, total, limit } = await fetchUsers(currentPage, 20)
 
-    useEffect(() => {
-        const fetchData = async (page: number, limit: number) => {
-            const response = await fetch(`api/users?page=${page}&limit=${limit}`, {
-                method: 'GET',
-                headers: {
-                    'Content-Type': 'application/json'
-                }
-            })
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`)
-            }
-            const data = await response.json()
-            
-            setUsersData({
-                users: data.users,
-                total: data.total,
-                limit: limit
-            })
-        }
-
-        fetchData(currentPage, 20)
-    }, [currentPage])
-
-    // Check if usersData is still null
-    if (!usersData) {
-        return <Loading />
-    }
-
-    const { users, total, limit } = usersData
     const totalPages = Math.ceil(total / limit)
 
     return (
